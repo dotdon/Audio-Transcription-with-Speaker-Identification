@@ -1,4 +1,3 @@
-# Import necessary libraries
 import librosa
 import numpy as np
 import whisper
